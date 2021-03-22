@@ -4,11 +4,11 @@ O objetivo desse teste é com que possamos analisar o código e ao mesmo tempo q
 
 Sugestão do que deve ser utilizado baseado no nosso dia a dia:
 - Arquitetura MVVM (https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
-- Retrofit
+- Retrofit (https://square.github.io/retrofit/)
 - Camadas de dados com RxJava 2 (https://github.com/ReactiveX/RxJava) e RxAndroid (https://github.com/ReactiveX/RxAndroid)
-- Livedata
-- Databinding
-- Room (Banco de dados)
+- Livedata (https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
+- Databinding (https://developer.android.com/topic/libraries/data-binding?hl=pt-br)
+- Room (Banco de dados) (https://developer.android.com/training/data-storage/room)
 - Navigation component (https://developer.android.com/guide/navigation/navigation-getting-started)
 
  
