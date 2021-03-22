@@ -9,6 +9,7 @@ Sugestão do que deve ser utilizado baseado no nosso dia a dia:
 - Livedata
 - Databinding
 - Room (Banco de dados)
+- Navigation component (https://developer.android.com/guide/navigation/navigation-getting-started)
 
  
 # Endpoint 
