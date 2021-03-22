@@ -17,7 +17,7 @@ Sugestão do que deve ser utilizado baseado no nosso dia a dia:
  
 # Endpoint 
 Consumir o endpoint:
-https://developers.themoviedb.org/3/movies/get-latest-movie
+https://developers.themoviedb.org/3/movies/get-popular-movies
 para utilização desse serviço é necessário criar a conta e configurar a api_key
 
 # Telas e o que fazer:
