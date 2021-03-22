@@ -3,7 +3,7 @@
 O objetivo desse teste é com que possamos analisar o código e ao mesmo tempo que o desenvolvedor possa estudar baseado em um objetivo final.
 
 # Linguagem e libs:
-Kotlin 
+Kotlin (https://kotlinlang.org/docs/android-overview.html)
 
 Sugestão do que deve ser utilizado baseado no nosso dia a dia:
 - Arquitetura MVVM (https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
